@@ -1,5 +1,6 @@
 import random
 
+bla bla
 
 def blank_sudoku():
     sudoku = []
